@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>表情符号 on 寂静的角落</title>
+        <link>http://localhost:1313/tags/%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7/</link>
+        <description>Recent content in 表情符号 on 寂静的角落</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>XYY1411</copyright><atom:link href="http://localhost:1313/tags/%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>

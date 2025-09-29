@@ -1,0 +1,7 @@
+<ruby>
+    {{- $pairs := split .Inner "|" -}}
+    {{- range $pairs -}}
+        {{- $parts := split . " " -}}
+        {{ index $parts 0 }}<rt>{{ index $parts 1 }}</rt>
+    {{- end -}}
+</ruby>
